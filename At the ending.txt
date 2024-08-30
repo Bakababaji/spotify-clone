@@ -1,0 +1,13 @@
+At the ending 
+Step 1: Begin 
+Step 2: If fx=null then 
+         print overflow and exit 
+Step 3: Input new item 
+Step 4: Set new <- fr,  fr <- link[fr] 
+Step 5: Set loc <- st 
+Step 6: Repeat Step @ while link(loc)=/ null 
+        @loc <- link[loc]
+Step 7: data[New] <- item 
+Step 8: link [New]<- Null 
+Step 9: link[loc]<- New 
+Step 10: Exit
